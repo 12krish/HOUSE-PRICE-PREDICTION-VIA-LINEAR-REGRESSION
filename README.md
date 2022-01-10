@@ -1,0 +1,2 @@
+# HOUSE PRICE PREDICTION VIA LINEAR REGRESSION
+ The competition goal is to predict sale prices for homes in USA. You’re given a training and testing data set in csv format as well as a data dictionary. Our training data consists of 1,460 examples of houses with 79 features describing every aspect of the house. We are given sale prices (labels) for each house. The training data is what we will use to “teach” our models.
